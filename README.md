@@ -33,18 +33,5 @@ This project aligns with **Vision 2030 initiatives in Saudi Arabia**, demonstrat
 
 ---
 
-## Project Structure
-Smart-Agriculture-AI/
-│
-├─ data/ # Sample images for testing
-├─ models/ # Pretrained YOLO weights
-├─ src/
-│ ├─ detect.py # Real-time detection
-│ ├─ measure.py # Size measurement logic
-│ ├─ utils.py # Helper functions
-│ └─ app.py # FastAPI web interface
-├─ notebooks/ # Jupyter notebook demos
-├─ demo/ # Annotated images/videos
-├─ requirements.txt
-└─ README.md
+
 
